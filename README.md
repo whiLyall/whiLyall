@@ -1,9 +1,9 @@
 # Olá, meu nome é Thaissa - aka [whiLyall] 👋 
 
-## Sou juntada com a minha amada, mãe de 1 🐱 e 4 🐶 e Desenvolvedora aprendiz!!
+## Sou juntada com a minha amada, mãe de 1 🐱 e 4 🐶 e desenvolvedora aprendiz!!
 
 - 🌱 Atualmente estudando e aprendendo de tudo 🤣
-- 🥅 Meta de 2022: Ficar craque no Java
+- 🥅 Meta de 2022: Ficar craque no Java Script
 - ⚡ Curiosidades: Gosto de jogos, séries e animes
 
 ### Conecte-se comigo:
